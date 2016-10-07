@@ -46,6 +46,7 @@
         "Newtonsoft.Json": "7.0.1"
       },
       "frameworkAssemblies": {
+        "Microsoft.CSharp": "4.0.0.0",
         "System.Net.Http": "4.0.0.0"
       }
     },
