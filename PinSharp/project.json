@@ -51,7 +51,6 @@
     },
     "netstandard1.3": {
       "imports": [
-        "dnxcore50",
         "portable-net451+win8"
       ],
       "buildOptions": {
@@ -63,6 +62,7 @@
         "Microsoft.CSharp": "4.0.1",
         "NETStandard.Library": "1.6.0",
         "Newtonsoft.Json": "9.0.1",
+        "System.Dynamic.Runtime": "4.0.11",
         "System.Net.Http": "4.1.0"
       }
     }
