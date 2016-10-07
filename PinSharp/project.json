@@ -67,7 +67,8 @@
         "System.Linq.Expressions": "4.1.0",
         "System.Linq.Queryable": "4.0.1",
         "System.Net.Http": "4.1.0",
-        "System.Runtime": "4.1.0"
+        "System.Runtime": "4.1.0",
+        "System.Runtime.Extensions": "4.1.0"
       }
     }
   }
