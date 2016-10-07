@@ -9,6 +9,7 @@
     "releaseNotes": "Updated with .NET Core support.",
     "projectUrl": "https://github.com/Krusen/PinSharp",
     "licenseUrl": "https://github.com/Krusen/PinSharp/blob/master/LICENSE.md",
+    "iconUrl": "https://raw.githubusercontent.com/Krusen/PinSharp/master/icon.png",
     "requireLicenseAcceptance": false,
     "tags": [
       "pinsharp",
@@ -56,8 +57,9 @@
         "define": [ "NETSTANDARD" ]
       },
       "dependencies": {
-        "Microsoft.CSharp": "4.0.1",
+        //"Microsoft.AspNetCore.Http": "1.0.0",
         "Microsoft.AspNet.WebApi.Client": "5.2.3",
+        "Microsoft.CSharp": "4.0.1",
         "NETStandard.Library": "1.6.0",
         "Newtonsoft.Json": "9.0.1",
         "System.Net.Http": "4.1.0"
